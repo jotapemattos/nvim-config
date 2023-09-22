@@ -1,2 +1,2 @@
 require("jotape.remap")
-print("Hello from jotape")
+require("jotape.set")
